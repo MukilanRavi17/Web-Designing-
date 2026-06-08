@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+        .a
+        {
+            background-color: rgb(41,45,51);
+            width: 100vw;
+            height: 690px;
+        }
+        h1
+        {
+            color: white;
+            font-size: 53px;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            margin-left: 180px;
+            padding-top: 70px;
+            font-weight:lighter;
+            
+        }
+        p
+        {
+            color: white;
+            font-size: 17.5px;
+            margin-left: 740px;
+            position: relative;
+            bottom: 160px;
+            line-height: 30px;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        }
+          img
+        {
+            width: 330px;
+            height: 330px;
+        }
+    
+        .b
+        {
+          
+          position: relative;
+          bottom: 350px;
+          margin-left: 180px;
+        }
+       
+        .c
+        {
+          
+          position: relative;
+          bottom: 684.5px;
+          margin-left: 520px;
+        }
+        .d
+        {
+          
+          position: relative;
+          bottom: 1018px;
+          margin-left: 860px;
+        }   
+    </style>
+</body>
+    <div class="a">
+        <h1>Let's see the world <br> with your family</h1>
+        <p>As we planned our first international trip with baby J  <br> we sought inspiration and motivation from our <br>favourite family travel quotes: from bravery inducing <br> adventure travel quotes to wonderful wanderlust <br> quotes, we hope that our collection of the best family <br> travel quotes will inspire you on your travels and <br>encourage your wandering soul!</p>
+    </div>
+    <div class="b">
+        <img src="11055 (2).jpg" alt="" width="200px" height="200px">
+    </div>
+    <div class="c">
+        <img src="11055 (3).jpg" alt="">
+    </div>
+    <div class="d">
+        <img src="11055 (1).jpg" alt="">
+    </div>
+</html>
