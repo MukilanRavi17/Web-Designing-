@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div
+        {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>example of heading</h1>
+    <h2>example of heading</h2>
+    <h3>example of heading</h3>
+    <h4>example of heading</h4>
+    <h5>example of heading</h5>
+    <h6>example of heading</h6>
+    <div>
+        <h1 style="color: green;">heading used with font,bold,italic,underline tag</h1>
+        <h2 style="color: brown;">heading used with font,bold,italic,underline tag</h2>
+        <h3 style="color: blue;">heading used with font,bold,italic,underline tag</h3>
+        <h4 style="color: pink;">heading used with font,bold,italic,underline tag</h4>
+        <h5 style="color: purple;">heading used with font,bold,italic,underline tag</h5>
+        <h6 style="color: gold;">heading used with font,bold,italic,underline tag</h6>
+    </div>
+</body>
+</html>  
