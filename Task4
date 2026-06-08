@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Welcome to My Web Page!</h1>
+    <p>Welcome to my page. I'm happy to have you here. This page is a place where I share ideas, creativity, knowledge, and interesting moments. I hope you enjoy exploring the content, learn something new, and have a great experience while visiting. Thank you for your support and for being a part of this journey.</p>
+    <p>There is a graphic after the period at the period for and of this graphic is in a file.The file in a folder name "images".</p>
+    link:<a href="https://in.search.yahoo.com/">yahoo!</a>
+    <br>
+    Another link: <a href="https://login.yahoo.com/?.src=ym&pspid=159600001&activity=mail-direct&.lang=en-IN&.intl=in&.done=https%3A%2F%2Fin.mail.yahoo.com%2Fd">Another Web Page</a> <br>
+    Note the way the BR tag works in the two above.
+</body>
+</html> 
