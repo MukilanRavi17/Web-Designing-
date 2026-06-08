@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .a
+        img
+        {
+            width: 530px;
+            height:500px;
+            margin-left: 170px;
+            margin-top: 100px;
+            
+        }
+        .b
+        img
+        {
+            width: 50px;
+            height: 50px;
+            padding-left: 750px;
+            position: relative;
+            top: -390px;
+        
+            
+        } 
+        .c
+        {
+            background-color: rgba(184,209,57);
+            width: 530px;
+            height: 500px;
+            margin-left: 700px;
+            margin-top: -605px;
+        }
+        h1
+        {
+            padding-top: 170px;
+            margin-left: 50px;
+            font-family:fantasy;
+            font-size: 70px;
+            color:rgb(43,65,71);
+            font-weight: lighter;
+        }
+        p
+        {
+            font-size: 22px;
+            margin-left: 50px;
+            margin-top: -40px;
+            line-height: 30px;
+        }
+        a
+        {
+            margin-left: 50px;
+            color:blue;
+            letter-spacing: 2px;
+            text-decoration: none;
+        }
+        hr
+        {
+            color: rgb(0, 0, 255);
+            border: 2px solid;
+            margin-left: 50px;
+            margin-right: 357px;
+            position: relative;
+   
+        }
+        .b
+        {
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="a">
+        <img src="10009.jpg" alt="">
+    </div>
+    <div class="b">
+        <img src="10008.svg" alt="">
+    </div>
+    <div class="c">
+        <div><h1>Hiking tours</h1></div> 
+        <p>Our walking tours are complete and most of all perfectly thought through and organised. All <br> you have to do is arrive and depart and we are <br> more than happy to assist you with that too.</p>
+        <a href="">LEARN MORE</a>
+        <hr>
+    </div>
+  
+</body>
+</html>
