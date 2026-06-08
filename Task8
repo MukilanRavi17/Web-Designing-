@@ -1,0 +1,42 @@
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div
+        {
+            background-color: rgb(239, 239, 168);
+            width: 100vw;
+            height: 100vh;
+            
+        }
+        h1
+        {
+            text-align: center;
+            color: brown;
+            padding-top: 20px;
+            font-weight: lighter;
+        }
+        img
+        {
+            border: 3px solid brown;
+            margin-left: 430px;
+            
+
+        }
+        h3
+        {
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>My Bestfriend Max</h1>
+        <h3>Max is my pet dog and my best friend. He is very loyal, friendly, and playful. I enjoy spending time with him every day, whether we are playing, walking, or simply relaxing together. Max always makes me happy with his loving nature and cheerful energy. He is an important member of my family, and I care for him deeply. His companionship brings joy to my life, and I am grateful to have such a wonderful friend.</h3>
+        <img src="dog.jpg" alt="" width="500px" height="300px">
+    </div>
+</body>
+</html> 
