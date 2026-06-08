@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body
+        {
+            margin: 0px;
+            padding: 0px;
+        }
+        div
+        {
+            width: 100vw;
+            height: 300px;
+            border: 2px solid;
+            background-color:sienna;
+            text-align: center;
+            
+        }
+        #a
+        {
+            bottom: 50px;
+            margin-top: 100px;
+        }
+        nav
+        {
+            width: 100vw;
+            height: 400px;
+            border: 2px solid;
+            background-color:burlywood
+        }
+        ul
+        {
+            list-style: none;
+            text-align: center;
+        }
+        a
+        {
+            text-decoration: none;
+            color: green;
+            margin-left: 15px;
+        }
+        li
+        {
+            display: inline;
+        }
+        h2,h3
+        {
+            color: brown;
+        }
+        h4
+        {
+            text-align: center;
+        }
+        h1
+        {
+            margin-left: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1 id="a">THIS IS MY BANNER TEXT</h1>
+    </div>
+    <nav>
+        <h2>
+        <ul>
+            <li><a href="">HOME</a></li>
+            <li><a href="">INFO</a></li>
+            <li><a href="">CONTACT</a></li>
+            <li><a href="">HUBPAGES</a></li>
+            </h2>
+            <h1>This is My paragraph Header</h1>
+            <h2> <blockquote>This is where i am going to put useful informutive text about my website.</blockquote></h2>
+            <h3> <blockquote>This is where i am going to put useful informutive text about my website.</blockquote></h3>
+            <h4>This is where i can place a copyright logo like this &copy</h4>
+         </ul>
+    </nav>
+</body>
+</html> 
