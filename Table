@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table cellpadding="15">
+        
+        <tbody>
+            
+            <tr>
+                <th>Name</th>
+                <th colspan="2">Course & Fees</th>
+            </tr>
+            <tr>
+            <td rowspan="2">Deepak</td>
+            <td>Full stack</td>
+            <td>40000</td>
+            </tr>
+            <tr>
+                
+                <td>C++</td>
+                <td>35000 </td>
+            </tr>
+            <tr>
+                <td>Abishek</td>
+                <td>Data Analyst</td>
+                <td rowspan="2">30000</td>
+            </tr>
+            <tr>
+                <td>Mithun</td>
+                <td>Data Scientist</td>
+                
+            </tr>
+            
+            <style>
+                table,tbody,tr,td,th
+                {
+                    border: solid skyblue;
+                    border-collapse: collapse;
+                    text-align: center;
+                }
+            </style>   
+        </tbody>
+</body>
+</html>
