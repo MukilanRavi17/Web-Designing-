@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div
+        {
+            background-color: darkgreen;
+            width: 100vw;
+            height: 100vh;
+        }
+        h1
+        {
+            text-align: center;
+            color: yellow;
+        }
+        p
+        {
+            color: yellow;
+        }
+        h3
+        {
+            color: yellow;
+        }
+        li
+        {
+            color: yellow;
+        }
+        h2
+        {
+            text-align: center;
+            color: yellow;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>Basic html Coding Test</h1>
+        <p>Taking a test on coding is awesome for many reasons!!! I like to write in paragraph format.The following rule should be centered,a size of 10 and a width of 86%.The horizontal rule below is a width of 50%. </p>
+        <hr width="1000px" height="100px">
+        <h3>This is an example of a level three heading.Followed by a numbered list that i hope describe your mood and thoughts. </h3>
+        <ol>
+            <li>Friday test are great!</li>
+            <li>The weekend is almost here!</li>
+            <li>I know I will receive an A on this test because I studied.</li>
+            <li>I will be sure and run spell check on this web page.</li>
+            <li>It is a beautiful day to be alive!!</li>
+            <hr width="500px">
+            <h2>Written By:Mukilan R</h2>
+        </ol>
+    </div>
+</body>
+</html> 
