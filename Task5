@@ -1,0 +1,64 @@
+
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div
+        {
+            width: 100vw;
+            height: 100px;
+            border: 2px solid rgb(225, 117, 135);
+            background-color: rgb(236, 194, 157);
+        }
+        #a
+        {
+            font-size: 30px;
+            height: 95px;
+        }
+        #b
+        {
+            font-size: 25px;
+            height: 80px;
+        }
+        #c
+        {
+            font-size: 25px;
+            height: 55px;
+        }
+        .d
+        {
+            font-size: 25px;
+            height: 88px;
+            
+        }
+        .e
+        {
+            font-size: 25px;
+            height: 55px;
+           
+        }
+        .f
+        {
+            font-size: 25px;
+            height: 80px;
+        }
+        .g
+        {
+            font-size: 25px;
+            height: 30px;
+        }
+    </style>
+</head>
+<body>
+        <div id="a"><h1>Black Goose Bistro</h1></div> <br>
+        <div id="b"><h1>The Restaurant</h1></div> <br>
+        <div id="c">The Black Goose Bistro offers casual lunch and dinner fare in a relaxed atmosphere.The menu changes regularly to highlight the freshest local ingredients.</div> <br>
+        <div class="d"><h1>Catering</h1></div> <br>
+        <div class="e">You have fun.<a href="http://blackgoosebistro.com/">http://blackgoosebistro.com/</a> Black Goose Catering can handle events from snacks for a meetup to elegant corporate fundraisers.</div> <br>
+        <div class="f"><h1>Location and Hours</h1></div> <br>
+        <div class="g">Seekonk,Massachusetts;Monday through Thursday 11am to 9pm;Friday and Saturday, 11am to midnight</div>
+</body>
+</html>  
