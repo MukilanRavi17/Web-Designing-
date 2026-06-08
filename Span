@@ -1,0 +1,23 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        p
+        {
+            color: blueviolet;
+        }
+        span
+        {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <p>
+        <span>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</span> Aut, nemo? Pariatur veniam doloremque aperiam, voluptatum a suscipit tempora vel, ullam autem ab unde consequuntur aut fugit quas obcaecati? <span>In ex, tempora libero dolorum ad ipsa voluptates, veniam nobis maxime, dicta illo temporibus doloremque velit necessitatibus fugit repudiandae qui? Mollitia, impedit.</span>
+    </p>
+</body> 
+</html>
