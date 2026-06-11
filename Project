@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+         body
+        {
+            width: 100vw;
+            height: 100vh;
+            background-color: #f5deb3;
+            margin: 0;
+        }
+        h1
+        {
+            font-size: 50px;
+            color: white;
+            font-family:'Times New Roman', Times, serif;
+            letter-spacing: 2px;
+            margin-top: -35px;
+            margin-left: -35px;
+        }
+        ul
+        {
+            list-style-type: none;
+        }
+        a
+        {
+            text-decoration: none;
+            color: white;
+            font-size: 20px;
+            position: relative;
+        }
+        nav
+        {
+            background-color: #a0522d;
+            height: 90px;
+            width: 100vw;
+            padding-top: 30px;
+        }
+        li
+        {
+            display: inline;
+            margin-left: 40px;
+            position: relative;
+            left: 750px;
+        }
+        a:hover
+        {
+            color: #f5deb3;
+            text-decoration: underline;
+        }
+        #b
+        {
+            text-align: center;
+            color: brown;
+            margin-top: 30px;
+        }
+        img
+        {
+            width: 350px;
+            height: 350px;
+            border-radius: 10%;
+            margin-left: 30px;
+            box-shadow:3px -5px 4px brown;
+            cursor: pointer;
+        }
+        img:hover
+        {
+            transform: scale(1.1);
+            transition-delay: 1s;
+            transition-duration: 2s;
+        }
+        p
+        {
+            font-size: 25px;
+            margin-left: 420px;
+            position: relative;
+            top: -330px;
+        }
+        hr
+        {
+            border: 5px solid brown;
+            margin-top: -250px;
+        }
+        #c
+        {
+            text-align: center;
+            color: brown;
+            margin-top: 30px;
+        }
+        .b
+        {
+            width: 100vw;
+            height: 100vh;
+            display: grid;
+            gap: 10px;
+            grid-template-columns: auto auto auto auto;
+            flex-wrap: wrap;
+            
+        }
+        .x
+        {
+            width: 300px;
+            height: 300px;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+            border-radius: 10%;
+            box-shadow:3px -5px 4px brown;
+            margin-top: 30px;
+            cursor: pointer;
+        }
+        .x:hover
+        {
+            transform: scale(1.1);
+            transition-delay: 1s;
+            transition-duration: 2s;
+        }
+        #p
+        {
+            background-image: url('090626(4).jpeg');
+        }
+        #q
+        {
+            background-image: url('090626(6).jpeg');
+        }
+        #r
+        {
+            background-image: url('090626(7).jpeg');
+        }
+        #s
+        {
+            background-image: url('100626(1).jpeg');
+        }
+        h3
+        {
+            color: brown;
+            margin-top: 350px;
+            text-align: center;
+            font-size: 30px;
+        }
+        .line1
+        {
+            position: relative;
+            top: 70px;
+        }
+        #d
+        {
+            text-align: center;
+            color: brown;
+            margin-top: 110px;
+        }
+        #t
+        {
+            background-image: url(100626\(2\).jpeg);
+        }
+        #u
+        {
+            background-image: url(100626\(3\).jpeg);
+        }
+        #v
+        {
+            background-image: url(100626\(4\).jpeg);
+        }
+        #w
+        {
+            background-image: url(100626\(5\).jpeg);
+        }
+        .c
+        {
+            width: 100vw;
+            height: 100vh;
+            display: grid;
+            gap: 10px;
+            grid-template-columns: auto auto auto auto;
+            flex-wrap: wrap;
+        }
+        .z
+        {
+            width: 300px;
+            height: 300px;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+            border-radius: 10%;
+            box-shadow:3px -5px 4px brown;
+            cursor: pointer;
+        }
+        .z:hover
+        {
+            transform: scale(1.1);
+            transition-delay: 1s;
+            transition-duration: 2s;
+        }
+        .line2
+        {
+            position: relative;
+            top: -60px;
+        }
+        #e
+        {
+            text-align: center;
+            color: brown;
+            margin-top: -30px;
+        }
+        .d
+        {
+            color: brown;
+            font-size: 30px;
+            margin-left: 20px;
+        }
+        h2
+        {
+            color: brown;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <nav>
+        <ul>
+            <li><a href="">Home</a></li>
+            <li><a href="">About Us</a></li>
+            <li><a href="">Products</a></li>
+            <li><a href="">Gallery</a></li>
+            <li><a href="">Contact</a></li>
+            <h1 id="a">CLAY CRAFTS</h1>
+        </ul>
+        </nav>
+        <div class="a">
+        <h1 id="b">ABOUT US</h1>
+        <img src="090626(2).jpeg" alt="">
+            <p>Clay Craft is dedicated to preserving the beauty of traditional handmade craftsmanship. <br>Our skilled artisans create unique clay products with passion, creativity, and attention to <br>detail.From elegant clay pots to decorative art pieces, every creation reflects the rich <br> heritage of clay crafting.we believe in combining tradition with artistry to bring beautiful, <br>eco-friendly products into everyday life. We draw inspiration from nature, culture, and the <br>rich tradition of clay artistry. Every design is carefully crafted to showcase both beauty and functionality, making our products suitable for everyday use as decoration. By combining <br>skilled craftmanship with creative ideas, we strive to create pieces that bring character and warmth to every space.</p> 
+        </div>
+        <hr>
+        <h1 id="c">PRODUCTS</h1>
+        <div class="b">
+             <div id="p" class="x">
+                <h3>CURD JAR <br>Price : Rs.600</h3>
+             </div>
+             <div id="q" class="x">
+                <h3>WATER POT <br>Price : Rs.750</h3>
+             </div>
+             <div id="r" class="x">
+                <h3>GARDEN POT <br>Price : Rs.299</h3>
+             </div>
+             <div id="s" class="x">                
+                <h3>PONGAL POT <br>Price : Rs.350</h3>
+            </div>
+        </div>
+        <hr class="line1">
+        <h1 id="d">GALLERY</h1>
+        <div class="c">
+            <div id="t" class="z"></div>
+            <div id="u" class="z"></div>
+            <div id="v" class="z"></div>
+            <div id="w" class="z"></div>
+        </div>
+        <hr class="line2">
+        <h1 id="e">CONTACT</h1>
+        <div class="d">
+            <address>123,Anna Nagar,Chennai</address>
+            Phone Number : 6380234657 <br>
+            Email : ravimukilanr9@gmail.com
+        </div>
+        <h2>&copy 2026 Clay Crafts. All Rights Reserved</h2>
+    </div>
+</body>
+</html>
